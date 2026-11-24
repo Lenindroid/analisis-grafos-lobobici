@@ -1,0 +1,30 @@
+origen,destino,nombre_origen,nombre_destino,dist_euclidiana_m,dist_ruta_m,fuente_ruta
+21,8,PLU-Computación,Computación,7.1,7.1,geometria_ciclovia
+8,9,Computación,Lab. de Ciencias Químicas,169.1,209.9,geometria_ciclovia
+8,7,Computación,Teatro al aire libre,181.8,267.3,geometria_ciclovia
+9,7,Lab. de Ciencias Químicas,Teatro al aire libre,169.0,198.6,osrm_bike
+7,6,Teatro al aire libre,Ingeniería,131.6,159.9,osrm_bike
+7,5,Teatro al aire libre,Electrónica,170.4,172.2,osrm_bike
+6,5,Ingeniería,Electrónica,60.0,81.5,osrm_bike
+5,10,Electrónica,Instituto de Física,144.5,269.7,osrm_bike
+5,4,Electrónica,Administración,302.0,308.3,osrm_bike
+5,19,Electrónica,COMDE,231.5,313.5,osrm_bike
+10,11,Instituto de Física,Físico-Matemáticas,152.8,366.1,osrm_bike
+11,4,Físico-Matemáticas,Administración,204.3,380.2,osrm_bike
+11,19,Físico-Matemáticas,COMDE,378.4,515.8,osrm_bike
+4,12,Administración,Derecho,168.6,319.0,osrm_bike
+4,3,Administración,CAALE,278.9,377.4,osrm_bike
+12,3,Derecho,CAALE,234.9,292.2,osrm_bike
+3,2,CAALE,Cultura Física,241.4,265.8,osrm_bike
+2,13,Cultura Física,Acceso 24 Sur,85.6,107.9,osrm_bike
+2,1,Cultura Física,DAE,242.2,301.3,osrm_bike
+13,1,Acceso 24 Sur,DAE,239.9,247.5,osrm_bike
+1,20,DAE,Estadio,145.1,146.5,geometria_ciclovia
+19,20,COMDE,Estadio,791.1,921.3,geometria_ciclovia
+20,14,Estadio,STU,107.4,114.9,geometria_ciclovia
+14,15,STU,Unidad de Seminarios,367.5,475.3,osrm_bike
+15,16,Unidad de Seminarios,Biblioteca Central,237.2,237.5,osrm_bike
+16,17,Biblioteca Central,Multiaulas,113.1,155.1,osrm_bike
+17,18,Multiaulas,Contaduría,285.7,514.0,osrm_bike
+17,19,Multiaulas,COMDE,373.8,401.9,osrm_bike
+18,19,Contaduría,COMDE,228.1,271.0,osrm_bike
